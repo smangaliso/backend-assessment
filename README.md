@@ -23,7 +23,7 @@ Information about this module is found inside it.
 these are answers to the sql questions
 
 
-<smoothy.py>
+<h2>smoothy.py</h2>
 
 here is an example of how to run this module on the terminal
 
